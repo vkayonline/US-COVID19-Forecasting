@@ -1,0 +1,2 @@
+# US-COVID19-Forecasting
+The “us_covid19_daily.csv” dataset consists of the details of the covid cases registered in the US on a daily basis. It consists of the details of positive cases, covid deaths and hospitalised cases  on a daily basis. This dataset is particularly used for understanding and forecasting the trend flow of the covid case in the US. You are given the task to perform to build time series model to forecast the Hospitalized count
